@@ -1,5 +1,5 @@
 # Simple Clone of Notes App (React)
 
-![Main Screen](./Screenshots/main)
-![Animation](./Screenshots/animation)
-![In Use](./Screenshots/in_use)
+![Main Screen](./ScreenShots/main)
+![Animation](./ScreenShots/animation)
+![In Use](./ScreenShots/in_use)
